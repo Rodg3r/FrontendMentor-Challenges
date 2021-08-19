@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution](Solution.jpg)
+![Solution](Solution.png)
 
 ### Built with
 
